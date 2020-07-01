@@ -1,5 +1,16 @@
 ## Introduction
 
+> First run read_data.R to download the dataset and get the subset of required data for plotting.
+>
+> Then run the separate R scripts to construct the corresponding plot.
+>
+>     plot1.R ---> constructs the plot1.png plot
+>     plot2.R ---> constructs the plot2.png plot
+>     plot3.R ---> constructs the plot3.png plot
+>     plot4.R ---> constructs the plot4.png plot
+
+___
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
